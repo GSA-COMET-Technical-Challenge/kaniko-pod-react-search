@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: opencloudcx-tracer-round
+  name: build-react-search
 spec:
   containers:
   - name: kaniko
